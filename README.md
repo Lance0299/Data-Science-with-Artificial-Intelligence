@@ -4,10 +4,10 @@
 
 A Course Requirement for the Subject Data Science and Artificial Intelligence
 
-Submitted by: Bautista, Lotes kaye
-              Loyola, Dave Jarold
-              Marquez, Djullance
-              Salandanan, Jericho
+Submitted by: Bautista, Lotes kaye S.
+              Loyola, Dave Jarold T.
+              Marquez, Djullance M.
+              Salandanan, Jericho M.
 
 Submitted to: Labastilla, Aisa M.
 
