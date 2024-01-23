@@ -113,7 +113,7 @@ Overall, the capstone project serves as a valuable opportunity to apply and soli
 # Program Codes / Google colab / Jupyter notebook or spyder IDE
 Directly access the Jupyter notebook: [Jupyter-Notebook-Capstone](Group-6_BS-ECE-T4A_Capstone-Data.ipynb)
 
-Directly access the Jupyter notebook (PDF): [Jupyter-Notebook-Capstone]()
+Directly access the Jupyter notebook (PDF): [Jupyter-Notebook-Capstone](Group-6_BS-ECE-T4A_Capstone-Data.pdf)
 
 # References
 [1] 	A. Hayes, "Investopedia," 9 August 2023. [Online]. Available: https://www.investopedia.com/terms/u/unemployment.asp#:~:text=What%20Is%20Unemployment?. [Accessed 13 January 2023].
