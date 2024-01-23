@@ -111,7 +111,7 @@ Overall, the capstone project serves as a valuable opportunity to apply and soli
 
 
 # Program Codes / Google colab / Jupyter notebook or spyder IDE
-Directly access the Jupyter notebook: [Jupyter-Notebook-Capstone]()
+Directly access the Jupyter notebook: [Jupyter-Notebook-Capstone](Group-6_BS-ECE-T4A_Capstone-Data.ipynb)
 
 Directly access the Jupyter notebook (PDF): [Jupyter-Notebook-Capstone]()
 
