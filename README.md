@@ -1,6 +1,6 @@
 # Data-Science-with-Artificial-Intelligence - Group 6
 
-# Analyzing world Unemployment rates from 1991 - 2021
+# Analyzing World Unemployment Rates from 1991 - 2021
 
 A Course Requirement for the Subject Data Science and Artificial Intelligence
 
