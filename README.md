@@ -108,7 +108,22 @@ The subsequent visualizations, employing Linear and Logistic Regression techniqu
 
 Overall, the capstone project serves as a valuable opportunity to apply and solidify data science skills, fostering a deeper understanding of data analysis and modeling techniques.
 
+# Individual Thoughts
+Bautista:
 
+Engaging in the "Data Science with Artificial Intelligence" course was not only enjoyable but also incredibly enriching. I gained extensive knowledge in coding, with a particular focus on Python and the utilization of Jupyter Notebook. This platform proved to be invaluable for refining and advancing my coding skills. It became an important tool, enabling me to explore and conduct training and testing on datasets using various machine learning models. The course introduced me to Artificial Intelligence and Machine Learning, which further enhanced my technical skills. I'm able to understand real-world applications using Jupyter Notebook, through constructing predictive models and performing data analysis. The emphasis on manipulating data showcased its relevance for future applications. Overall, the course not only contributed to my technical skills but also helped me foster practical and experimental coding skills.
+
+Loyola:
+
+The "Data Science with Artificial Intelligence" course was a game-changer, especially with Jupyter notebook. This dynamic tool was crucial for improving coding skills, particularly in Python, and fostering an experimental mindset. The course focused on practical applications within Jupyter Notebook, like building predictive models and doing exploratory data analysis, which not only enhanced technical skills but also gave me a practical understanding of turning techniques into actionable insights. This experience equipped me with a versatile toolset and mindset, ready for the dynamic field of data science and artificial intelligence in my future work.
+
+Marquez:
+
+The course “Data Science with Artificial Intelligence” taught me many things in terms of coding. The use of Jupyter notebook has helped me create various ways of extracting and manipulating data that will help me in the future to come. Moreover, the course deepened my coding proficiency, particularly in Python, as Jupyter Notebook served as a dynamic platform for implementing data manipulation techniques. The ability to execute code in a cell-wise fashion allowed me to troubleshoot and iterate swiftly, fostering a more iterative and experimental coding mindset. The course's emphasis on real-world applications within Jupyter Notebook, such as building predictive models and conducting exploratory data analysis, has not only honed my technical skills but also provided me with a practical understanding of how these techniques translate into actionable insights.
+
+Salandanan:
+
+The "Data Science with Artificial Intelligence" course was beneficial, equipping me with substantial coding expertise, particularly in Python, and proficiency in utilizing Jupyter Notebook. This dynamic platform proved indispensable for honing my coding skills, facilitating exploration and application of various machine learning models on datasets. The course broadened my understanding of Artificial Intelligence and Machine Learning, elevating my technical capabilities. The practical focus on real-world applications, such as building predictive models and conducting exploratory data analysis within Jupyter Notebook, provided valuable insights. The emphasis on data extraction and manipulation underscored its practical relevance for future applications. Overall, the course not only significantly enhanced my technical skills but also cultivated an experimental and iterative mindset in coding, preparing me for the evolving landscape of data science and artificial intelligence in my future pursuits.
 
 # Program Codes / Google colab / Jupyter notebook or spyder IDE
 Directly access the Jupyter notebook: [Jupyter-Notebook-Capstone](Group-6_BS-ECE-T4A_Capstone-Data.ipynb)
