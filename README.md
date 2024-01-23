@@ -116,18 +116,18 @@ Directly access the Jupyter notebook: [Jupyter-Notebook-Capstone](Group-6_BS-ECE
 Directly access the Jupyter notebook (PDF): [Jupyter-Notebook-Capstone](Group-6_BS-ECE-T4A_Capstone-Data.pdf)
 
 # References
-[1] 	A. Hayes, "Investopedia," 9 August 2023. [Online]. Available: https://www.investopedia.com/terms/u/unemployment.asp#:~:text=What%20Is%20Unemployment?. [Accessed 13 January 2023].
+[1] 	A. Hayes, "What Is Unemployment?," Investopedia, 9 August 2023. [Online]. Available: https://www.investopedia.com/terms/u/unemployment.asp#:~:text=What%20Is%20Unemployment?. [Accessed 13 January 2024].
 
 [2] 	"The Global Goals," [Online]. Available: https://www.globalgoals.org/goals/8-decent-work-and-economic-growth/. [Accessed 13 January 2024].
 
-[3] 	A. Hayes, "What Is Unemployment?," Investopedia, 9 August 2023. [Online]. Available: https://www.investopedia.com/terms/u/unemployment.asp. [Accessed 20 January 2024].
+[3] 	A. O'Neill, "Global unemployment rate from 2003 to 2022," statista, 12 December 2023. [Online]. Available: https://www.statista.com/statistics/279777/global-unemployment-rate/. [Accessed 20 January 2024].
 
-[4] 	A. O'Neill, "Global unemployment rate from 2003 to 2022," statista, 12 December 2023. [Online]. Available: https://www.statista.com/statistics/279777/global-unemployment-rate/. [Accessed 20 January 2024].
+[4] 	peace, "Youth Unemployment Causes and Solutions," Peace Child International, 9 September 2015. [Online]. Available: https://peacechild.org/youth-unemployment-causes-and-solutions/. [Accessed 20 January 2024].
 
-[5] 	peace, "Youth Unemployment Causes and Solutions," Peace Child International, 9 September 2015. [Online]. Available: https://peacechild.org/youth-unemployment-causes-and-solutions/. [Accessed 20 January 2024].
+[5] 	H. Wilson and D. Finch, "Unemployment and mental health," The Health Foundation, 16 April 2021. [Online]. Available: https://www.health.org.uk/publications/long-reads/unemployment-and-mental-health. [Accessed 19 January 2024].
 
-[6] 	H. Wilson and D. Finch, "Unemployment and mental health," The Health Foundation, 16 April 2021. [Online]. Available: https://www.health.org.uk/publications/long-reads/unemployment-and-mental-health. [Accessed 19 January 2024].
+[6] 	International Labour Organization, "Global Unemployment Crisis Continues; Wage Inequalities Rising, Says ILO Renewed International Commitment to Full Employment is Needed," International Labour Organization, 2024. [Online]. Available: 
+https://www.ilo.org/global/about-the-ilo/newsroom/news/WCMS_008083/lang--en/index.htm. [Accessed 19 January 2024].
 
-[7] 	International Labour Organization, "Global Unemployment Crisis Continues; Wage Inequalities Rising, Says ILO Renewed International Commitment to Full Employment is Needed," International Labour Organization, 2024. [Online]. Available: https://www.ilo.org/global/about-the-ilo/newsroom/news/WCMS_008083/lang--en/index.htm. [Accessed 19 January 2024].
+[7] 	United Nations, "COVID-19 has led to massive job losses, particularly among youth and women," United Nations, 2020. [Online]. Available: https://unstats.un.org/sdgs/report/2021/goal-08/. [Accessed 19 January 2024].
 
-[8] 	United Nations, "COVID-19 has led to massive job losses, particularly among youth and women," United Nations, 2020. [Online]. Available: https://unstats.un.org/sdgs/report/2021/goal-08/. [Accessed 19 January 2024].
